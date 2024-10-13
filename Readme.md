@@ -1,6 +1,6 @@
 This is a simple Flappy Bird game created in Unity.
 
-![alt text](image.png)
+![alt text](./Assets/Scenes/image.png)
 **Features:**
 
 * Classic Flappy Bird gameplay
